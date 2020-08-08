@@ -38,3 +38,13 @@ body{
 #tipPercent, #tipValue, #totalWithTip, #splitValue, #billEach, #tipEach{
     float: right;
 }
+
+.linkGit{
+    font-family: Consolas;
+    position: relative;
+    color: #ff2e63;
+    top: 50px;
+    text-align: center;
+    font-size: 3vw;
+}
+
